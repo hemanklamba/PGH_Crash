@@ -12,5 +12,6 @@ Enter each variable in a separate line.
 And then run the following command:
 
 python get_dataset.py (Variable File) (Output File)
+
 python get_dataset.py Variables_1.txt(Variable File) Variables_1_Data.csv(Output File)
 
